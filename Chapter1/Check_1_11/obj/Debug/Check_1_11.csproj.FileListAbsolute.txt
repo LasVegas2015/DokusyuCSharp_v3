@@ -1,0 +1,6 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter1\Check_1_11\bin\Debug\Check_1_11.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter1\Check_1_11\bin\Debug\Check_1_11.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter1\Check_1_11\bin\Debug\Check_1_11.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter1\Check_1_11\obj\Debug\Check_1_11.csprojResolveAssemblyReference.cache
+C:\GitHub\DokusyuCSharp_v3\Chapter1\Check_1_11\obj\Debug\Check_1_11.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter1\Check_1_11\obj\Debug\Check_1_11.pdb

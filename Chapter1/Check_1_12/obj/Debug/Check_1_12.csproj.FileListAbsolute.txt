@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter1\Check_1_12\bin\Debug\Check_1_12.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter1\Check_1_12\bin\Debug\Check_1_12.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter1\Check_1_12\bin\Debug\Check_1_12.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter1\Check_1_12\obj\Debug\Check_1_12.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter1\Check_1_12\obj\Debug\Check_1_12.pdb
