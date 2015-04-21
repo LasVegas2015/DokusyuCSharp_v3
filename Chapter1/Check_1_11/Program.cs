@@ -14,7 +14,8 @@ namespace Check_1_11
 
         private static double GetWeightOnMoon(double weight)
         {
-            return weight * 0.83;
+            //return weight * 0.83;
+            return weight * 0.17;
         }
     }
 }
