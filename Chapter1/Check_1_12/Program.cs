@@ -12,7 +12,8 @@ namespace Check_1_12
             int counter = 0;
             for (inch = 1; inch <= 144; inch++)
             {
-                meter = inch * 39.37;
+                //meter = inch * 39.37;
+                meter = inch / 39.37;
                 Console.WriteLine(inch + " inches are " + meter + " meters.");
 
                 counter++;
