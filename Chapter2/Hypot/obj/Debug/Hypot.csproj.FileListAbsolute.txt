@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Hypot\bin\Debug\Hypot.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Hypot\bin\Debug\Hypot.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Hypot\bin\Debug\Hypot.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Hypot\obj\Debug\Hypot.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Hypot\obj\Debug\Hypot.pdb

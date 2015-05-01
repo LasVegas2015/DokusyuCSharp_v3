@@ -1,0 +1,6 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Mars\bin\Debug\Mars.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Mars\bin\Debug\Mars.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Mars\bin\Debug\Mars.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Mars\obj\Debug\Mars.csprojResolveAssemblyReference.cache
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Mars\obj\Debug\Mars.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Mars\obj\Debug\Mars.pdb

@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\ScopeDemo\bin\Debug\ScopeDemo.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\ScopeDemo\bin\Debug\ScopeDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\ScopeDemo\bin\Debug\ScopeDemo.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\ScopeDemo\obj\Debug\ScopeDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\ScopeDemo\obj\Debug\ScopeDemo.pdb

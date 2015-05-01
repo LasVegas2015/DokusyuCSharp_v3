@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\BoolDemo\bin\Debug\BoolDemo.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\BoolDemo\bin\Debug\BoolDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\BoolDemo\bin\Debug\BoolDemo.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\BoolDemo\obj\Debug\BoolDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\BoolDemo\obj\Debug\BoolDemo.pdb

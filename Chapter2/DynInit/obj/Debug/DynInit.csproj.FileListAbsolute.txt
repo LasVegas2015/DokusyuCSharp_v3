@@ -1,0 +1,6 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\DynInit\bin\Debug\DynInit.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\DynInit\bin\Debug\DynInit.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\DynInit\bin\Debug\DynInit.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\DynInit\obj\Debug\DynInit.csprojResolveAssemblyReference.cache
+C:\GitHub\DokusyuCSharp_v3\Chapter2\DynInit\obj\Debug\DynInit.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\DynInit\obj\Debug\DynInit.pdb

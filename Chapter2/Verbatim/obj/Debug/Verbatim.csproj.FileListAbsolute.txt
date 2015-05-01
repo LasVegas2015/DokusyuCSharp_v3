@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Verbatim\bin\Debug\Verbatim.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Verbatim\bin\Debug\Verbatim.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Verbatim\bin\Debug\Verbatim.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Verbatim\obj\Debug\Verbatim.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Verbatim\obj\Debug\Verbatim.pdb

@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\VarInitDemo\bin\Debug\VarInitDemo.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\VarInitDemo\bin\Debug\VarInitDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\VarInitDemo\bin\Debug\VarInitDemo.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\VarInitDemo\obj\Debug\VarInitDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\VarInitDemo\obj\Debug\VarInitDemo.pdb

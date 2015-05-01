@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\UseDecimal\bin\Debug\UseDecimal.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\UseDecimal\bin\Debug\UseDecimal.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\UseDecimal\bin\Debug\UseDecimal.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\UseDecimal\obj\Debug\UseDecimal.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\UseDecimal\obj\Debug\UseDecimal.pdb

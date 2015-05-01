@@ -1,0 +1,6 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Inches\bin\Debug\Inches.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Inches\bin\Debug\Inches.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Inches\bin\Debug\Inches.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Inches\obj\Debug\Inches.csprojResolveAssemblyReference.cache
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Inches\obj\Debug\Inches.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Inches\obj\Debug\Inches.pdb

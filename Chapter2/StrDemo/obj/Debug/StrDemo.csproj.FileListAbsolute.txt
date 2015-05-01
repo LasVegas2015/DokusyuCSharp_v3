@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\StrDemo\bin\Debug\StrDemo.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\StrDemo\bin\Debug\StrDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\StrDemo\bin\Debug\StrDemo.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\StrDemo\obj\Debug\StrDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\StrDemo\obj\Debug\StrDemo.pdb

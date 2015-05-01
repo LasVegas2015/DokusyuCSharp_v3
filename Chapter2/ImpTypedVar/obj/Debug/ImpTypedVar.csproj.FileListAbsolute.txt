@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\ImpTypedVar\bin\Debug\ImpTypedVar.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\ImpTypedVar\bin\Debug\ImpTypedVar.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\ImpTypedVar\bin\Debug\ImpTypedVar.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\ImpTypedVar\obj\Debug\ImpTypedVar.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\ImpTypedVar\obj\Debug\ImpTypedVar.pdb
