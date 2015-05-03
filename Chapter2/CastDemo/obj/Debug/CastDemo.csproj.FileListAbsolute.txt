@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\CastDemo\bin\Debug\CastDemo.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\CastDemo\bin\Debug\CastDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\CastDemo\bin\Debug\CastDemo.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\CastDemo\obj\Debug\CastDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\CastDemo\obj\Debug\CastDemo.pdb

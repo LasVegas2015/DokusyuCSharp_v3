@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\LtoD\bin\Debug\LtoD.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\LtoD\bin\Debug\LtoD.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\LtoD\bin\Debug\LtoD.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\LtoD\obj\Debug\LtoD.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\LtoD\obj\Debug\LtoD.pdb

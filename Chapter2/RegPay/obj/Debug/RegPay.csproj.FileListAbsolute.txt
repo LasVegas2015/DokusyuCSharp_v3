@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\RegPay\bin\Debug\RegPay.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\RegPay\bin\Debug\RegPay.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\RegPay\bin\Debug\RegPay.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\RegPay\obj\Debug\RegPay.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\RegPay\obj\Debug\RegPay.pdb

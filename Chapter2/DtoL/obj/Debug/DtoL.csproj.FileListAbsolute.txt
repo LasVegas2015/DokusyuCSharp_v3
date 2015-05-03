@@ -1,0 +1,1 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\DtoL\bin\Debug\DtoL.exe.config

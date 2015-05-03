@@ -1,0 +1,6 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\ModDemo\bin\Debug\ModDemo.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\ModDemo\bin\Debug\ModDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\ModDemo\bin\Debug\ModDemo.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\ModDemo\obj\Debug\ModDemo.csprojResolveAssemblyReference.cache
+C:\GitHub\DokusyuCSharp_v3\Chapter2\ModDemo\obj\Debug\ModDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\ModDemo\obj\Debug\ModDemo.pdb

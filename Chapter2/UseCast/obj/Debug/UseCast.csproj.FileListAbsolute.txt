@@ -1,0 +1,6 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\UseCast\bin\Debug\UseCast.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\UseCast\bin\Debug\UseCast.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\UseCast\bin\Debug\UseCast.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\UseCast\obj\Debug\UseCast.csprojResolveAssemblyReference.cache
+C:\GitHub\DokusyuCSharp_v3\Chapter2\UseCast\obj\Debug\UseCast.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\UseCast\obj\Debug\UseCast.pdb

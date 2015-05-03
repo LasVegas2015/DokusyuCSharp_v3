@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\SCops\bin\Debug\SCops.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\SCops\bin\Debug\SCops.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\SCops\bin\Debug\SCops.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\SCops\obj\Debug\SCops.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\SCops\obj\Debug\SCops.pdb

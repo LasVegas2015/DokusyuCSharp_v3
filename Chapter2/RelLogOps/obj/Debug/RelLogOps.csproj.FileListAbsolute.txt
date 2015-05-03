@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\RelLogOps\bin\Debug\RelLogOps.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\RelLogOps\bin\Debug\RelLogOps.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\RelLogOps\bin\Debug\RelLogOps.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\RelLogOps\obj\Debug\RelLogOps.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\RelLogOps\obj\Debug\RelLogOps.pdb

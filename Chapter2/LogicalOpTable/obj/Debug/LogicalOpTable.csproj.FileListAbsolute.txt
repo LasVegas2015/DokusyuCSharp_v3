@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\LogicalOpTable\bin\Debug\LogicalOpTable.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\LogicalOpTable\bin\Debug\LogicalOpTable.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\LogicalOpTable\bin\Debug\LogicalOpTable.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\LogicalOpTable\obj\Debug\LogicalOpTable.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\LogicalOpTable\obj\Debug\LogicalOpTable.pdb

@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\PromDemo\bin\Debug\PromDemo.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\PromDemo\bin\Debug\PromDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\PromDemo\bin\Debug\PromDemo.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\PromDemo\obj\Debug\PromDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\PromDemo\obj\Debug\PromDemo.pdb

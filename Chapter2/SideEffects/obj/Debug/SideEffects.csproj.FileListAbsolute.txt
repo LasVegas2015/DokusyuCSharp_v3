@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter2\SideEffects\bin\Debug\SideEffects.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter2\SideEffects\bin\Debug\SideEffects.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\SideEffects\bin\Debug\SideEffects.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\SideEffects\obj\Debug\SideEffects.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter2\SideEffects\obj\Debug\SideEffects.pdb
