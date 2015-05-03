@@ -25,9 +25,11 @@ namespace Check_2_12
 
         static void DisplayLogicalOpRow(bool p, bool q)
         {
-            Console.Write(@"{0,-8}{1,-8}", p, q);
-            Console.Write(@"{0,-8}{1,-8}", (p & q), (p | q));
-            Console.WriteLine(@"{0,-8}{1,-8}", (p ^ q), (!p));
+            //Console.Write(@"{0,-8}{1,-8}", p, q);
+            //Console.Write(@"{0,-8}{1,-8}", (p & q), (p | q));
+            //Console.WriteLine(@"{0,-8}{1,-8}", (p ^ q), (!p));
+
+            Console.WriteLine(@"{0,-8}{1,-8}{2,-8}{3,-8}{4,-8}{5,-8}", p, q, (p & q), (p | q), (p ^ q), (!p));
         }
     }
 }

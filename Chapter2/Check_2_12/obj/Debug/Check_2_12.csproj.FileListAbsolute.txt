@@ -3,3 +3,4 @@ C:\GitHub\DokusyuCSharp_v3\Chapter2\Check_2_12\bin\Debug\Check_2_12.exe
 C:\GitHub\DokusyuCSharp_v3\Chapter2\Check_2_12\bin\Debug\Check_2_12.pdb
 C:\GitHub\DokusyuCSharp_v3\Chapter2\Check_2_12\obj\Debug\Check_2_12.exe
 C:\GitHub\DokusyuCSharp_v3\Chapter2\Check_2_12\obj\Debug\Check_2_12.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter2\Check_2_12\obj\Debug\Check_2_12.csprojResolveAssemblyReference.cache
