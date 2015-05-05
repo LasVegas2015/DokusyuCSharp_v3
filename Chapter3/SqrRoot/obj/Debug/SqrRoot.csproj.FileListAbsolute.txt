@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\SqrRoot\bin\Debug\SqrRoot.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\SqrRoot\bin\Debug\SqrRoot.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\SqrRoot\bin\Debug\SqrRoot.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\SqrRoot\obj\Debug\SqrRoot.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\SqrRoot\obj\Debug\SqrRoot.pdb

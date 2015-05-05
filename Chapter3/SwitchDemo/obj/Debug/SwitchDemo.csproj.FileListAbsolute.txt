@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\SwitchDemo\bin\Debug\SwitchDemo.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\SwitchDemo\bin\Debug\SwitchDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\SwitchDemo\bin\Debug\SwitchDemo.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\SwitchDemo\obj\Debug\SwitchDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\SwitchDemo\obj\Debug\SwitchDemo.pdb

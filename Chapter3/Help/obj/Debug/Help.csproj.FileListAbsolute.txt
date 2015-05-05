@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Help\bin\Debug\Help.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Help\bin\Debug\Help.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Help\bin\Debug\Help.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Help\obj\Debug\Help.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Help\obj\Debug\Help.pdb

@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Ladder\bin\Debug\Ladder.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Ladder\bin\Debug\Ladder.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Ladder\bin\Debug\Ladder.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Ladder\obj\Debug\Ladder.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Ladder\obj\Debug\Ladder.pdb

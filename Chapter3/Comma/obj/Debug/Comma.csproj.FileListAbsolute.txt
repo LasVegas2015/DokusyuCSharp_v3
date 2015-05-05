@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Comma\bin\Debug\Comma.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Comma\bin\Debug\Comma.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Comma\bin\Debug\Comma.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Comma\obj\Debug\Comma.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Comma\obj\Debug\Comma.pdb

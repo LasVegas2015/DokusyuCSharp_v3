@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Empty3\bin\Debug\Empty3.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Empty3\bin\Debug\Empty3.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Empty3\bin\Debug\Empty3.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Empty3\obj\Debug\Empty3.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Empty3\obj\Debug\Empty3.pdb

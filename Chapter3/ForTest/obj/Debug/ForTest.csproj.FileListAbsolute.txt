@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\ForTest\bin\Debug\ForTest.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\ForTest\bin\Debug\ForTest.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\ForTest\bin\Debug\ForTest.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\ForTest\obj\Debug\ForTest.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\ForTest\obj\Debug\ForTest.pdb

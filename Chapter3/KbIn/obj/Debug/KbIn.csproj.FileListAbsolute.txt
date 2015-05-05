@@ -1,0 +1,6 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\KbIn\bin\Debug\KbIn.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\KbIn\bin\Debug\KbIn.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\KbIn\bin\Debug\KbIn.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\KbIn\obj\Debug\KbIn.csprojResolveAssemblyReference.cache
+C:\GitHub\DokusyuCSharp_v3\Chapter3\KbIn\obj\Debug\KbIn.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\KbIn\obj\Debug\KbIn.pdb

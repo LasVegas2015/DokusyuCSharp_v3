@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\ForVar\bin\Debug\ForVar.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\ForVar\bin\Debug\ForVar.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\ForVar\bin\Debug\ForVar.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\ForVar\obj\Debug\ForVar.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\ForVar\obj\Debug\ForVar.pdb

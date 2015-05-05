@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Guess2\bin\Debug\Guess2.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Guess2\bin\Debug\Guess2.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Guess2\bin\Debug\Guess2.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Guess2\obj\Debug\Guess2.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Guess2\obj\Debug\Guess2.pdb
