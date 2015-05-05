@@ -1,0 +1,6 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\WhileDemo\bin\Debug\WhileDemo.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\WhileDemo\obj\Debug\WhileDemo.csprojResolveAssemblyReference.cache
+C:\GitHub\DokusyuCSharp_v3\Chapter3\WhileDemo\bin\Debug\WhileDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\WhileDemo\bin\Debug\WhileDemo.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\WhileDemo\obj\Debug\WhileDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\WhileDemo\obj\Debug\WhileDemo.pdb

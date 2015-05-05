@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Power\bin\Debug\Power.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Power\bin\Debug\Power.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Power\bin\Debug\Power.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Power\obj\Debug\Power.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Power\obj\Debug\Power.pdb

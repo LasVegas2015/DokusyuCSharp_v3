@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Guess4\bin\Debug\Guess4.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Guess4\bin\Debug\Guess4.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Guess4\bin\Debug\Guess4.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Guess4\obj\Debug\Guess4.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Guess4\obj\Debug\Guess4.pdb
