@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Break2\bin\Debug\Break2.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Break2\bin\Debug\Break2.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Break2\bin\Debug\Break2.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Break2\obj\Debug\Break2.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Break2\obj\Debug\Break2.pdb

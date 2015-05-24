@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\FindFac\bin\Debug\FindFac.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\FindFac\bin\Debug\FindFac.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\FindFac\bin\Debug\FindFac.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\FindFac\obj\Debug\FindFac.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\FindFac\obj\Debug\FindFac.pdb

@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\ContDemo\bin\Debug\ContDemo.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\ContDemo\bin\Debug\ContDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\ContDemo\bin\Debug\ContDemo.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\ContDemo\obj\Debug\ContDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\ContDemo\obj\Debug\ContDemo.pdb

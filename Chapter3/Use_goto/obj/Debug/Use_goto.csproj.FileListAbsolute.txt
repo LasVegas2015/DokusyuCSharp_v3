@@ -1,0 +1,5 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Use_goto\bin\Debug\Use_goto.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Use_goto\bin\Debug\Use_goto.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Use_goto\bin\Debug\Use_goto.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Use_goto\obj\Debug\Use_goto.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\Use_goto\obj\Debug\Use_goto.pdb

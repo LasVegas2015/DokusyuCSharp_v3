@@ -1,0 +1,6 @@
+C:\GitHub\DokusyuCSharp_v3\Chapter3\BreakDemo\bin\Debug\BreakDemo.exe.config
+C:\GitHub\DokusyuCSharp_v3\Chapter3\BreakDemo\bin\Debug\BreakDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\BreakDemo\bin\Debug\BreakDemo.pdb
+C:\GitHub\DokusyuCSharp_v3\Chapter3\BreakDemo\obj\Debug\BreakDemo.csprojResolveAssemblyReference.cache
+C:\GitHub\DokusyuCSharp_v3\Chapter3\BreakDemo\obj\Debug\BreakDemo.exe
+C:\GitHub\DokusyuCSharp_v3\Chapter3\BreakDemo\obj\Debug\BreakDemo.pdb
